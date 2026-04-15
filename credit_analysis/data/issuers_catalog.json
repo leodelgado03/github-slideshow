@@ -1,0 +1,436 @@
+{
+  "issuers": [
+    {
+      "name": "Simpar S.A.",
+      "aliases": ["Simpar", "SIMH", "sim par"],
+      "ticker": "SIMH3",
+      "yfinance_ticker": "SIMH3.SA",
+      "cnpj": "23.670.391/0001-77",
+      "sector": "Serviços de Transporte",
+      "subsector": "Locação e Logística"
+    },
+    {
+      "name": "Localiza Rent a Car S.A.",
+      "aliases": ["Localiza", "RENT", "localiza rent"],
+      "ticker": "RENT3",
+      "yfinance_ticker": "RENT3.SA",
+      "cnpj": "16.670.085/0001-55",
+      "sector": "Serviços de Transporte",
+      "subsector": "Locação de Veículos"
+    },
+    {
+      "name": "Movida Participações S.A.",
+      "aliases": ["Movida", "MOVI"],
+      "ticker": "MOVI3",
+      "yfinance_ticker": "MOVI3.SA",
+      "cnpj": "21.314.559/0001-66",
+      "sector": "Serviços de Transporte",
+      "subsector": "Locação de Veículos"
+    },
+    {
+      "name": "Tegma Gestão Logística S.A.",
+      "aliases": ["Tegma", "TGMA"],
+      "ticker": "TGMA3",
+      "yfinance_ticker": "TGMA3.SA",
+      "cnpj": "02.351.144/0001-18",
+      "sector": "Serviços de Transporte",
+      "subsector": "Logística"
+    },
+    {
+      "name": "Vamos Locação de Caminhões, Máquinas e Equipamentos S.A.",
+      "aliases": ["Vamos", "VAMO"],
+      "ticker": "VAMO3",
+      "yfinance_ticker": "VAMO3.SA",
+      "cnpj": "37.396.489/0001-02",
+      "sector": "Serviços de Transporte",
+      "subsector": "Locação de Equipamentos"
+    },
+    {
+      "name": "Petróleo Brasileiro S.A. — Petrobras",
+      "aliases": ["Petrobras", "PETR", "petro"],
+      "ticker": "PETR4",
+      "yfinance_ticker": "PETR4.SA",
+      "cnpj": "33.000.167/0001-01",
+      "sector": "Petróleo, Gás e Biocombustíveis",
+      "subsector": "Exploração e Produção"
+    },
+    {
+      "name": "Vale S.A.",
+      "aliases": ["Vale", "VALE"],
+      "ticker": "VALE3",
+      "yfinance_ticker": "VALE3.SA",
+      "cnpj": "33.592.510/0001-54",
+      "sector": "Mineração",
+      "subsector": "Mineração de Ferro"
+    },
+    {
+      "name": "Gerdau S.A.",
+      "aliases": ["Gerdau", "GGBR"],
+      "ticker": "GGBR4",
+      "yfinance_ticker": "GGBR4.SA",
+      "cnpj": "33.611.500/0001-19",
+      "sector": "Siderurgia e Metalurgia",
+      "subsector": "Siderurgia"
+    },
+    {
+      "name": "Suzano S.A.",
+      "aliases": ["Suzano", "SUZB"],
+      "ticker": "SUZB3",
+      "yfinance_ticker": "SUZB3.SA",
+      "cnpj": "16.404.287/0001-55",
+      "sector": "Papel e Celulose",
+      "subsector": "Papel e Celulose"
+    },
+    {
+      "name": "Klabin S.A.",
+      "aliases": ["Klabin", "KLBN"],
+      "ticker": "KLBN11",
+      "yfinance_ticker": "KLBN11.SA",
+      "cnpj": "89.637.490/0001-45",
+      "sector": "Papel e Celulose",
+      "subsector": "Papel e Embalagem"
+    },
+    {
+      "name": "Embraer S.A.",
+      "aliases": ["Embraer", "EMBR"],
+      "ticker": "EMBR3",
+      "yfinance_ticker": "EMBR3.SA",
+      "cnpj": "07.689.002/0001-89",
+      "sector": "Bens Industriais",
+      "subsector": "Material Aeronáutico"
+    },
+    {
+      "name": "Weg S.A.",
+      "aliases": ["Weg", "WEGE"],
+      "ticker": "WEGE3",
+      "yfinance_ticker": "WEGE3.SA",
+      "cnpj": "84.429.695/0001-11",
+      "sector": "Bens Industriais",
+      "subsector": "Motores e Geradores"
+    },
+    {
+      "name": "Marfrig Global Foods S.A.",
+      "aliases": ["Marfrig", "MRFG"],
+      "ticker": "MRFG3",
+      "yfinance_ticker": "MRFG3.SA",
+      "cnpj": "03.853.896/0001-40",
+      "sector": "Alimentos Processados",
+      "subsector": "Frigoríficos"
+    },
+    {
+      "name": "BRF S.A.",
+      "aliases": ["BRF", "BRFS", "brasil foods"],
+      "ticker": "BRFS3",
+      "yfinance_ticker": "BRFS3.SA",
+      "cnpj": "01.838.723/0001-27",
+      "sector": "Alimentos Processados",
+      "subsector": "Alimentos Processados"
+    },
+    {
+      "name": "JBS S.A.",
+      "aliases": ["JBS", "JBSS"],
+      "ticker": "JBSS3",
+      "yfinance_ticker": "JBSS3.SA",
+      "cnpj": "02.916.265/0001-60",
+      "sector": "Alimentos Processados",
+      "subsector": "Frigoríficos"
+    },
+    {
+      "name": "Minerva Foods S.A.",
+      "aliases": ["Minerva", "BEEF", "minerva foods"],
+      "ticker": "BEEF3",
+      "yfinance_ticker": "BEEF3.SA",
+      "cnpj": "67.620.377/0001-14",
+      "sector": "Alimentos Processados",
+      "subsector": "Frigoríficos"
+    },
+    {
+      "name": "Grupo Pão de Açúcar S.A.",
+      "aliases": ["GPA", "PCAR", "pão de açúcar", "grupo pao de acucar"],
+      "ticker": "PCAR3",
+      "yfinance_ticker": "PCAR3.SA",
+      "cnpj": "47.508.411/0001-56",
+      "sector": "Comércio",
+      "subsector": "Varejo Alimentar"
+    },
+    {
+      "name": "Assaí Atacadista S.A.",
+      "aliases": ["Assaí", "ASAI", "assai"],
+      "ticker": "ASAI3",
+      "yfinance_ticker": "ASAI3.SA",
+      "cnpj": "06.626.253/0001-51",
+      "sector": "Comércio",
+      "subsector": "Atacarejo"
+    },
+    {
+      "name": "Grupo Mateus S.A.",
+      "aliases": ["Mateus", "GMAT", "grupo mateus"],
+      "ticker": "GMAT3",
+      "yfinance_ticker": "GMAT3.SA",
+      "cnpj": "40.000.639/0001-16",
+      "sector": "Comércio",
+      "subsector": "Varejo Alimentar"
+    },
+    {
+      "name": "Magazine Luiza S.A.",
+      "aliases": ["Magalu", "MGLU", "magazine luiza"],
+      "ticker": "MGLU3",
+      "yfinance_ticker": "MGLU3.SA",
+      "cnpj": "47.960.950/0001-21",
+      "sector": "Comércio",
+      "subsector": "Varejo Não Alimentar"
+    },
+    {
+      "name": "Americanas S.A.",
+      "aliases": ["Americanas", "AMER", "b2w"],
+      "ticker": "AMER3",
+      "yfinance_ticker": "AMER3.SA",
+      "cnpj": "00.776.574/0001-56",
+      "sector": "Comércio",
+      "subsector": "Varejo Não Alimentar"
+    },
+    {
+      "name": "Via Varejo S.A. (Grupo Casas Bahia)",
+      "aliases": ["Casas Bahia", "BHIA", "via varejo", "casas bahia"],
+      "ticker": "BHIA3",
+      "yfinance_ticker": "BHIA3.SA",
+      "cnpj": "33.041.260/0652-90",
+      "sector": "Comércio",
+      "subsector": "Varejo Não Alimentar"
+    },
+    {
+      "name": "Eneva S.A.",
+      "aliases": ["Eneva", "ENEV"],
+      "ticker": "ENEV3",
+      "yfinance_ticker": "ENEV3.SA",
+      "cnpj": "14.302.416/0001-47",
+      "sector": "Utilidade Pública",
+      "subsector": "Geração de Energia Elétrica"
+    },
+    {
+      "name": "Engie Brasil Energia S.A.",
+      "aliases": ["Engie", "EGIE", "engie brasil"],
+      "ticker": "EGIE3",
+      "yfinance_ticker": "EGIE3.SA",
+      "cnpj": "02.474.103/0001-19",
+      "sector": "Utilidade Pública",
+      "subsector": "Geração de Energia Elétrica"
+    },
+    {
+      "name": "Equatorial Energia S.A.",
+      "aliases": ["Equatorial", "EQTL"],
+      "ticker": "EQTL3",
+      "yfinance_ticker": "EQTL3.SA",
+      "cnpj": "08.534.605/0001-74",
+      "sector": "Utilidade Pública",
+      "subsector": "Distribuição de Energia Elétrica"
+    },
+    {
+      "name": "Copel S.A.",
+      "aliases": ["Copel", "CPLE"],
+      "ticker": "CPLE6",
+      "yfinance_ticker": "CPLE6.SA",
+      "cnpj": "76.483.817/0001-20",
+      "sector": "Utilidade Pública",
+      "subsector": "Distribuição de Energia Elétrica"
+    },
+    {
+      "name": "Sabesp S.A.",
+      "aliases": ["Sabesp", "SBSP"],
+      "ticker": "SBSP3",
+      "yfinance_ticker": "SBSP3.SA",
+      "cnpj": "43.776.517/0001-80",
+      "sector": "Utilidade Pública",
+      "subsector": "Saneamento"
+    },
+    {
+      "name": "Iguá Saneamento S.A.",
+      "aliases": ["Iguá", "Igua", "igua saneamento"],
+      "ticker": "IGUA6",
+      "yfinance_ticker": "IGUA6.SA",
+      "cnpj": "09.274.998/0001-55",
+      "sector": "Utilidade Pública",
+      "subsector": "Saneamento"
+    },
+    {
+      "name": "Aegea Saneamento e Participações S.A.",
+      "aliases": ["Aegea", "aegea saneamento"],
+      "ticker": "AEGS3",
+      "yfinance_ticker": "AEGS3.SA",
+      "cnpj": "14.810.932/0001-36",
+      "sector": "Utilidade Pública",
+      "subsector": "Saneamento"
+    },
+    {
+      "name": "Rede D'Or São Luiz S.A.",
+      "aliases": ["Rede D'Or", "RDOR", "rede dor"],
+      "ticker": "RDOR3",
+      "yfinance_ticker": "RDOR3.SA",
+      "cnpj": "06.047.087/0001-39",
+      "sector": "Saúde",
+      "subsector": "Hospitais e Clínicas"
+    },
+    {
+      "name": "Hapvida NotreDame Intermédica S.A.",
+      "aliases": ["Hapvida", "HAPV", "notre dame"],
+      "ticker": "HAPV3",
+      "yfinance_ticker": "HAPV3.SA",
+      "cnpj": "63.554.067/0001-98",
+      "sector": "Saúde",
+      "subsector": "Planos de Saúde"
+    },
+    {
+      "name": "Fleury S.A.",
+      "aliases": ["Fleury", "FLRY"],
+      "ticker": "FLRY3",
+      "yfinance_ticker": "FLRY3.SA",
+      "cnpj": "60.840.055/0001-31",
+      "sector": "Saúde",
+      "subsector": "Medicina Diagnóstica"
+    },
+    {
+      "name": "MRV Engenharia e Participações S.A.",
+      "aliases": ["MRV", "MRVE"],
+      "ticker": "MRVE3",
+      "yfinance_ticker": "MRVE3.SA",
+      "cnpj": "08.343.492/0001-20",
+      "sector": "Construção Civil",
+      "subsector": "Incorporação Imobiliária"
+    },
+    {
+      "name": "Cyrela Brazil Realty S.A.",
+      "aliases": ["Cyrela", "CYRE", "cyrela realty"],
+      "ticker": "CYRE3",
+      "yfinance_ticker": "CYRE3.SA",
+      "cnpj": "73.178.600/0001-18",
+      "sector": "Construção Civil",
+      "subsector": "Incorporação Imobiliária"
+    },
+    {
+      "name": "Localfrio S.A.",
+      "aliases": ["Localfrio", "LLAO"],
+      "ticker": "LLAO3",
+      "yfinance_ticker": "LLAO3.SA",
+      "cnpj": "59.117.539/0001-11",
+      "sector": "Serviços de Transporte",
+      "subsector": "Armazenagem Frigorificada"
+    },
+    {
+      "name": "CCR S.A.",
+      "aliases": ["CCR", "CCRO"],
+      "ticker": "CCRO3",
+      "yfinance_ticker": "CCRO3.SA",
+      "cnpj": "02.846.056/0001-97",
+      "sector": "Transporte",
+      "subsector": "Concessões de Rodovias"
+    },
+    {
+      "name": "Ecorodovias Infraestrutura e Logística S.A.",
+      "aliases": ["Ecorodovias", "ECOR", "eco rodovias"],
+      "ticker": "ECOR3",
+      "yfinance_ticker": "ECOR3.SA",
+      "cnpj": "04.149.454/0001-80",
+      "sector": "Transporte",
+      "subsector": "Concessões de Rodovias"
+    },
+    {
+      "name": "Rumo S.A.",
+      "aliases": ["Rumo", "RAIL", "rumo logistica"],
+      "ticker": "RAIL3",
+      "yfinance_ticker": "RAIL3.SA",
+      "cnpj": "02.925.781/0001-65",
+      "sector": "Transporte",
+      "subsector": "Ferroviário"
+    },
+    {
+      "name": "Hidrovias do Brasil S.A.",
+      "aliases": ["Hidrovias", "HBSA", "hidrovias brasil"],
+      "ticker": "HBSA3",
+      "yfinance_ticker": "HBSA3.SA",
+      "cnpj": "14.810.932/0001-36",
+      "sector": "Transporte",
+      "subsector": "Navegação Interior"
+    },
+    {
+      "name": "Cogna Educação S.A.",
+      "aliases": ["Cogna", "COGN", "kroton"],
+      "ticker": "COGN3",
+      "yfinance_ticker": "COGN3.SA",
+      "cnpj": "02.800.026/0001-40",
+      "sector": "Consumo Cíclico",
+      "subsector": "Educação"
+    },
+    {
+      "name": "Yduqs Participações S.A.",
+      "aliases": ["Yduqs", "YDUQ", "estácio"],
+      "ticker": "YDUQ3",
+      "yfinance_ticker": "YDUQ3.SA",
+      "cnpj": "08.807.432/0001-10",
+      "sector": "Consumo Cíclico",
+      "subsector": "Educação"
+    },
+    {
+      "name": "Cosan S.A.",
+      "aliases": ["Cosan", "CSAN"],
+      "ticker": "CSAN3",
+      "yfinance_ticker": "CSAN3.SA",
+      "cnpj": "50.746.577/0001-15",
+      "sector": "Petróleo, Gás e Biocombustíveis",
+      "subsector": "Distribuição de Combustíveis"
+    },
+    {
+      "name": "Raízen S.A.",
+      "aliases": ["Raízen", "Raizen", "RAIZ"],
+      "ticker": "RAIZ4",
+      "yfinance_ticker": "RAIZ4.SA",
+      "cnpj": "33.453.598/0001-23",
+      "sector": "Petróleo, Gás e Biocombustíveis",
+      "subsector": "Açúcar e Etanol"
+    },
+    {
+      "name": "Vibra Energia S.A.",
+      "aliases": ["Vibra", "VBBR", "br distribuidora"],
+      "ticker": "VBBR3",
+      "yfinance_ticker": "VBBR3.SA",
+      "cnpj": "33.453.598/0002-04",
+      "sector": "Petróleo, Gás e Biocombustíveis",
+      "subsector": "Distribuição de Combustíveis"
+    },
+    {
+      "name": "Unidas S.A.",
+      "aliases": ["Unidas", "LCAM", "unidas locacao"],
+      "ticker": "LCAM3",
+      "yfinance_ticker": "LCAM3.SA",
+      "cnpj": "06.981.180/0001-16",
+      "sector": "Serviços de Transporte",
+      "subsector": "Locação de Veículos"
+    },
+    {
+      "name": "Grupo Comporte Participações S.A.",
+      "aliases": ["Comporte", "JSL", "grupo comporte"],
+      "ticker": "JSLG3",
+      "yfinance_ticker": "JSLG3.SA",
+      "cnpj": "52.548.435/0001-59",
+      "sector": "Serviços de Transporte",
+      "subsector": "Logística"
+    },
+    {
+      "name": "Porto Seguro S.A.",
+      "aliases": ["Porto Seguro", "PSSA", "porto seguro seguros"],
+      "ticker": "PSSA3",
+      "yfinance_ticker": "PSSA3.SA",
+      "cnpj": "61.198.164/0001-60",
+      "sector": "Financeiro",
+      "subsector": "Seguradoras"
+    },
+    {
+      "name": "Raia Drogasil S.A.",
+      "aliases": ["Raia Drogasil", "RADL", "raia", "drogasil"],
+      "ticker": "RADL3",
+      "yfinance_ticker": "RADL3.SA",
+      "cnpj": "61.585.865/0001-51",
+      "sector": "Saúde",
+      "subsector": "Farmácias e Drogarias"
+    }
+  ]
+}

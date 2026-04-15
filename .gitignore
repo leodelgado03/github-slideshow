@@ -2,3 +2,17 @@ _site/
 .sass-cache/
 .jekyll-metadata
 .bundle
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.eggs/
+.venv/
+venv/
+env/
+
+# Sistema de análise de crédito — banco de dados local
+credit_analysis/data/analyses.db
